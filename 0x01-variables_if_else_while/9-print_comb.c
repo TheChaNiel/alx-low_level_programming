@@ -10,7 +10,7 @@ int TheChaNiel;
 
 for (TheChaNiel = 48; TheChaNiel < 58; TheChaNiel++)
 {
-	putchar(TheChaNiel);
+	putcha (TheChaNiel);
 	if (TheChaNiel !=57)
 {
 	putchar(',');
@@ -18,5 +18,5 @@ for (TheChaNiel = 48; TheChaNiel < 58; TheChaNiel++)
 }
 }
 putchar('\n');
-return(0);
+return (0);
 }
