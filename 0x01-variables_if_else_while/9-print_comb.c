@@ -11,7 +11,7 @@ int TheChaNiel;
 for (TheChaNiel = 48; TheChaNiel < 58; TheChaNiel++)
 {
 	putchar (TheChaNiel);
-	if (TheChaNiel !=57)
+	if (TheChaNiel ! =57)
 {
 	putchar(',');
 	putchar(' ');
