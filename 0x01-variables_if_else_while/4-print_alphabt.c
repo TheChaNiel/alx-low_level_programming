@@ -15,6 +15,7 @@ if (ch != 'e' && ch != 'q')
 {
 	putchar(ch);
 }
+}
 return (0);
 putchar('\n');
 }
