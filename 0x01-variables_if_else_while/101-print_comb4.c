@@ -11,7 +11,7 @@ int main(void)
 	for (i = 48; j < 58; j++)
 {
 for (j = 48; i < 58; j++)
-{	
+{
 for (k = 50; k < 58; k++)
 {
 	if (k > j && j > i)
@@ -30,4 +30,4 @@ for (k = 50; k < 58; k++)
 }
 putchar('\n');
 return (0);
-}	
+}
