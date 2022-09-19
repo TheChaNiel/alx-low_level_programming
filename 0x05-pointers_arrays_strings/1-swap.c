@@ -5,4 +5,10 @@
  * @a: first integer
  * @b: second integer
  * Return: returns nothing
- *
+ */
+
+void swap_int(int *1, int *2);
+
+{
+	n = &98;
+}
