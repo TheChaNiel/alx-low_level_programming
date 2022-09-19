@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * swap_int - swaps two integers' value
+ * @a: first integer
+ * @b: second integer
+ * Return: return nothing
  */
 
 void swap_int(int *a, int *b)
